@@ -1,1 +1,1 @@
-## Progetto Big Data - Stefani / Broccoli
+## Progetto Big Data - Stefani
