@@ -1,6 +1,4 @@
-## Progetto Big Data - Stefani
-
-# Analisi dei Dati sull'Abalone
+#  Progetto Big Data - Analisi dei Dati sull'Abalone
 
 ## Descrizione del Progetto
 Questo progetto ha l'obiettivo di analizzare i dati relativi all'abalone e di prevederne l'età basandosi su misurazioni fisiche. La determinazione dell'età di un abalone viene tradizionalmente effettuata contando gli anelli della sua conchiglia, un processo laborioso e dispendioso in termini di tempo. Attraverso tecniche di analisi dei dati e machine learning, questo progetto mira a stimare l'età dell'abalone utilizzando misurazioni più semplici da ottenere.
